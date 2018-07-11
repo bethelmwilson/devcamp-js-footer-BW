@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer-bw",
+  "version": "0.1.0",
+  "description": "Thismodule allows for a dynamic footer to be rendered for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bethelmwilson/devcamp-js-footer-bw.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Beth-el Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bethelmwilson/devcamp-js-footer-bw/issues"
+  },
+  "homepage": "https://github.com/bethelmwilson/devcamp-js-footer-bw#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
